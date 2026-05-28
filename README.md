@@ -103,7 +103,7 @@ Ensure you have the following installed:
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/agentic-research-analyst.git
+git clone https://github.com/akashyerra/Agentic-AI-Research-Analyst.git
 
 cd agentic-research-analyst
 ```
@@ -267,8 +267,7 @@ agentic-research-analyst/
 │   └── vector_store.py
 │
 ├── utils/
-│   ├── pdf_loader.py
-│   └── helpers.py
+│   └── pdf_loader.py
 │
 └── data/
 ```
